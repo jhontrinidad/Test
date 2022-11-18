@@ -113,7 +113,7 @@ class ProductController extends Controller
 
         // if softDeletes is enabled
         // delete() = archieve
-        // forceDelete() = delete in db
+        // forceDelete() = delete in db hello
 
         // else
         // both will work
